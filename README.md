@@ -21,3 +21,5 @@ LDRs are resistors whose resistance depends on the intensity of light falling on
 Arduino
 
 !["Arduino"](images/Arduino.jpg)
+
+![]()(https://www.youtube.com/watch?v=G0dqr979ccY)
