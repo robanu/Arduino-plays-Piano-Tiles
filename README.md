@@ -14,8 +14,10 @@ LDRs are resistors whose resistance depends on the intensity of light falling on
 
 
 4 Channel Relay
+
 !["Relay"](images/4_channel_relay.jpg)
 
 
 Arduino
+
 !["Arduino"](images/Arduino.jpg)
