@@ -9,6 +9,7 @@ Hardware used:
 
 LDRs:
 LDRs are resistors whose resistance depends on the intensity of light falling on it.
+
 !["LDR"](images/photo%20resistor.jpg)
 
 
